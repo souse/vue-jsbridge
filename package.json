@@ -1,0 +1,41 @@
+{
+  "name": "vue-jsbridge",
+  "version": "1.0.0",
+  "description": "h5 call native & native call h5",
+  "author": "zhangping <chenfeng_lian@126.com>",
+  "private": false,
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "prod": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:souse/vue-jsbridge.git"
+  },
+  "keywords": [
+    "picaweb",
+    "vue",
+    "components"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souse/vue-jsbridge/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "rollup": "^1.0.2",
+    "rollup-plugin-babel": "^4.2.0",
+    "rollup-plugin-terser": "^4.0.1",
+    "rollup-plugin-uglify": "^6.0.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
