@@ -1,5 +1,5 @@
 {
-  "name": "vue-jsbridge",
+  "name": "vue-jsnativebridge",
   "version": "1.0.0",
   "description": "h5 call native & native call h5",
   "author": "zhangping <chenfeng_lian@126.com>",
