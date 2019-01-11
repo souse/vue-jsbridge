@@ -8,7 +8,7 @@ use this component you need install jsBridge in your native
 IOS [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)  
 Android [JsBridge](https://github.com/lzyzsd/JsBridge)
 
-```
+```javascript
 import Vue from 'vue';
 import jsBridge from 'vue-jsnativebridge';
 
